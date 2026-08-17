@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kurtmustafabatuhan-create.github.io/kurt-consultancy/sitemap.xml
